@@ -28,7 +28,7 @@ Contiene la información de las canciones contenidas en la playlist del usuario 
 
 ## *Documento PDF con monografía*
 
-Se incluye un documento en PDF correspondiente al desarrollo y análisis escrito del proyecto
+Se incluye un documento en PDF llamado "DurangoSara_CaballeroCristian_2024_RecomendaciónMusicalSpotify.pdf", correspondiente al desarrollo y análisis escrito del proyecto
 
 # Instrucciones de Uso
 
