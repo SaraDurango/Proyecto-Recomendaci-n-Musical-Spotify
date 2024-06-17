@@ -8,7 +8,7 @@ Estos datos son proporcionados directamente por Spotify y constituyen una muestr
 
 # Contenido del Repositorio
 
-## *Notebook de Google Colab con el desarrollo del Modelo
+## *Notebook de Google Colab con el desarrollo del Modelo*
 
 Se proporciona un notebook de Google Colab que incluye todo el desarrollo del proyecto, abarcando desde la limpieza y preparación de datos hasta la generación y evaluación de recomendaciones musicales. Las etapas clave incluyen análisis de componentes principales, determinación y comparación de clusters, evaluación de diferentes configuraciones de Kernel PCA, y visualización en 2D y 3D de las recomendaciones generadas. Se destaca la selección del mejor modelo, un Kmeans con 6 clusters aplicando Kernel PCA con gamma:0.9, seguido por el reentrenamiento con datos balanceados y la mejora de recomendaciones basadas en métricas detalladas.
 
